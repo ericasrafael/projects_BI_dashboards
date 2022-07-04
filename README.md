@@ -1,6 +1,7 @@
 # projects_BI_dashboards
 Repositório destinado aos projetos de BI em relatórios.
 
+Para mais informações acerca dessa case, acessar:
 [Dashboard de Projetos](https://app.powerbi.com/view?r=eyJrIjoiZTU2NDRkMzItOGFhYi00M2YyLWEzNDctMGQ3ZWM2NGNhZjVkIiwidCI6IjcxNGZjZDU5LWFhZDctNDY0ZS04YjU2LTJlZTM1NTZjMmRmMyJ9&pageName=ReportSection)
 
 ![capa](https://user-images.githubusercontent.com/91800929/177152645-2abe696d-b902-4feb-a635-689e720d5737.png)
